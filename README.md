@@ -24,7 +24,7 @@
 
 <h2>🎬 A Trama</h2>
  <p>
-   Num mundo onde criaturas adoráveis coexistem com tecnologia avançada, um pandinha vermelho e muito fofo, Magalito, é sequestrado pela malvada baleia robô Zé Beluga. Com o Malito, o vilão execrável consegue dominar o mundo em que vivemos. Contudo, quatro guerreiros unem forças para derrotar esta maldita beluga enfadonha, antes que ela acabe com toda a realidade do multiverso, ou pior, machuque o nosso pandinha!
+   Num mundo onde criaturas adoráveis coexistem com tecnologia avançada, um pandinha vermelho e muito fofo, Magalito, é sequestrado pela malvada baleia robô Zé Beluga. Com o Malito, o vilão execrável consegue dominar o mundo em que vivemos, pois o pandinha possui um elemento crucial para o universo: o XLR. Contudo, quatro guerreiros unem forças para derrotar esta maldita beluga enfadonha, antes que ela acabe com toda a realidade do multiverso, ou pior, machuque o nosso pandinha!
  </p>
  <br>
 
